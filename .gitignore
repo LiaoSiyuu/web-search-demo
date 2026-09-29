@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Dataset — never commit; place or symlink collection.tsv at data/collection.tsv
+/data/
+
+# Build outputs
+/build_index
+/merge_compress
+/query_engine
+/verify_blockmax
+
+# Index build artifacts
+/temp/
+*.idx
+*.lex
+*.dt
+merged.txt
+
+# Golden files / scratch
+/scripts/golden/
+*.out
+*.time
+*.time.txt
+
+# Python verification artifacts
+__pycache__/
+*.py[cod]

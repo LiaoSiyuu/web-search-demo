@@ -1,0 +1,20 @@
+License & Usage Notice
+======================
+
+Copyright (c) 2025-2026 Siyu Liao. All rights reserved.
+
+This repository is a personal portfolio / demonstration project, shared to
+illustrate systems and information-retrieval engineering work. It originated from
+a graduate course project and may incorporate or derive from instructor-provided
+scaffolding; for that reason it is intentionally NOT released under a permissive
+open-source license such as MIT.
+
+You are welcome to read the source and documentation for the purposes of
+evaluation, technical discussion, and educational reference. No license is granted
+to copy, redistribute, sublicense, or reuse this code or its derivatives in other
+projects without the author's prior written permission.
+
+The MS MARCO passage dataset is owned by Microsoft and is not included in this
+repository. See https://microsoft.github.io/msmarco/ for its terms of use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
